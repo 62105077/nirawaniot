@@ -15,7 +15,7 @@
             echo " %";
          }
         ?>
-     </p>
+     </p><br>
     
 <iframe src="https://thingspeak.com/channels/1458420/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"width="450" height="260"></iframe>
    <?php
@@ -28,7 +28,7 @@
              echo "Temperature: ".$user->field2;
              echo " C"; 
          }
-        ?>
+        ?><br>
 <iframe src="https://thingspeak.com/channels/1458420/maps/channel_show"width="450" height="260"></iframe></center>
   </body>
 </html>
