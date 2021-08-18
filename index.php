@@ -3,7 +3,7 @@
 <head>
  <style>
 body {
-	background-image: url("1.jpg");
+	background-image: url("12.jpg");
 } 
 
 </style>
