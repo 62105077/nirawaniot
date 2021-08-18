@@ -1,11 +1,9 @@
 <html>
 <head>
  <style>
-
-div {
-  background-color: lightblue;
+body {
+  background-image: url("paper.gif");
 }
-
 </style>
 </head>
  <body>
