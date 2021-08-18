@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <style>
-body {
-	background-image: url("12.jpg");
-} 
 
-</style>
 </head>
  <body>
   
