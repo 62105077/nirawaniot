@@ -1,6 +1,12 @@
+<!DOCTYPE html>
 <html>
 <head>
- 
+ <style>
+body {
+	background-image: url("1.jpg");
+} 
+
+</style>
 </head>
  <body>
   
@@ -44,7 +50,7 @@ function timedRefresh(timeoutPeriod) {
 //   -->
 </script>
 </head>
-<body onload="JavaScript:timedRefresh(1000);">
+<body onload="JavaScript:timedRefresh(15000);">
   </body>
 </html>
 
