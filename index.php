@@ -44,7 +44,7 @@ function timedRefresh(timeoutPeriod) {
 //   -->
 </script>
 </head>
-<body onload="JavaScript:timedRefresh(6000);">
+<body onload="JavaScript:timedRefresh(1000);">
   </body>
 </html>
 
