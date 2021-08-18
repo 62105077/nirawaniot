@@ -2,7 +2,7 @@
 <head>
  <style>
 body {
-  background-image: url("paper.gif");
+  background-image: url("1.jpg");
 }
 </style>
 </head>
