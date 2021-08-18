@@ -4,7 +4,7 @@
  <body>
   
   <center><h1 style="border: 2px solid Violet;">Nirawan Ausakan 62105077</h1> </center><br>
-
+<style="border: 2px solid Violet;">
 <center><iframe src= "https://thingspeak.com/channels/1458420/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"width="450" height="260"></iframe><br><br>
   <?php
         $api_url = 'https://api.thingspeak.com/channels/1458420/fields/1.json?results=1';
@@ -17,7 +17,7 @@
             echo " %";
          }
         ?>
-     <br>
+ <br></style>
     <br>
     
 <iframe src="https://thingspeak.com/channels/1458420/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"width="450" height="260"></iframe><br><br>
