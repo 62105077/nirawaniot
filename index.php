@@ -1,10 +1,6 @@
 <html>
 <head>
- <style>
-body {
-  background-image: url("1.jpg");
-}
-</style>
+ 
 </head>
  <body>
   
@@ -40,6 +36,15 @@ body {
         <br>
 <center><iframe src="https://thingspeak.com/channels/1458420/maps/channel_show"width="450" height="260"></iframe></center>
        <br>
+ <script type="text/JavaScript">
+<!--
+function timedRefresh(timeoutPeriod) {
+    setTimeout("location.reload(true);",timeoutPeriod);
+}
+//   -->
+</script>
+</head>
+<body onload="JavaScript:timedRefresh(6000);">
   </body>
 </html>
 
