@@ -2,6 +2,7 @@
 <head>
 </head>
  <body>
+  <div class="container p-3 my-3 border">
   <center><h1 style="border: 2px solid Violet;">Nirawan Ausakan 62105077</h1> <center><br>
 
 <center><iframe src= "https://thingspeak.com/channels/1458420/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"width="450" height="260"></iframe>
@@ -31,6 +32,7 @@
          }
         ?><br>
 <center><iframe src="https://thingspeak.com/channels/1458420/maps/channel_show"width="450" height="260"></iframe></center>
+ </div>
   </body>
 </html>
 
